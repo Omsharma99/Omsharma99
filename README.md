@@ -17,9 +17,9 @@
 
 ## Let's Connect :handshake:
 <p align="center">
-<a href="https://www.linkedin.com/in/omprakash-kumar-a63431276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omprakash-kumar-a63431276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="OmSharma" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/its__ankit_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/ankit102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/omm_009_?igsh=d2lqYWsxZDgyYjEw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="OmSharma" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Omsharma09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="OmSharma" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
 </p>
