@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Omprakash Kumar</h1>
-<h3 align="center">A Full stack Application developer from India</h3>
+<h3 align="center">A Full Stack Application developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -17,7 +17,7 @@
 
 ## Let's Connect :handshake:
 <p align="center">
-<a href="[https://linkedin.com/in/kishanutkarsh](https://linkedin.com/in/https://www.linkedin.com/in/ankit-sharma-228862204/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/kishanutkarsh](https://linkedin.com/in/https://www.linkedin.com/in/ankit-sharma-228862204/)](https://www.linkedin.com/in/omprakash-kumar-a63431276/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/its__ankit_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/ankit102001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
