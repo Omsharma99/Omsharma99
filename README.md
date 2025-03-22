@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on *Android Development*
+- 🔭 I’m currently working on *Flutter Development*
 
 - 👨‍💻 All of my projects are available at https://github.com/Omsharma99
 
-- 💬 Ask me about *Java and Javascript*
+- 💬 Ask me about *Dart, Java, Javascript, and  Kotlin*
 
 - 📫 How to reach me *omsharma9999999@gmail.com*
 
